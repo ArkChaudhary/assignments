@@ -59,6 +59,6 @@
 
 ### 10. Leaders in an Array
 - **Problem**: Print all leaders in the array. An element is a leader if it is greater than all the elements to its right.
-- **Solution**: [leaders_array.cpp](https://github.com/ArkChaudhary/assignments/blob/main/leadersArray.cpp)
+- **Solution**: [leaders_array.cpp](https://github.com/ArkChaudhary/assignments/blob/main/arrayLeaders.cpp)
 
 ---
