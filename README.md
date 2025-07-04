@@ -62,3 +62,9 @@
 - **Solution**: [leaders_array.cpp](https://github.com/ArkChaudhary/assignments/blob/main/arrayLeaders.cpp)
 
 ---
+
+### 11. Subarray with maximum sum
+- **Problem**: Print the subarray of the array taken as input with the maximum sum.
+- **Solution**: [max_subarray.cpp](https://github.com/ArkChaudhary/assignments/blob/main/maxsubarray.cpp)
+
+---
